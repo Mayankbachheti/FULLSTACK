@@ -1,0 +1,31 @@
+.aa{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border: 3px solid blue;
+    margin:10px;
+}
+
+.aa2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border: 3px solid blue;
+    margin:10px;
+
+}
+
+.aa3 {
+    color: blue;
+    background-color: lightgray;
+    font-size: 18px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+

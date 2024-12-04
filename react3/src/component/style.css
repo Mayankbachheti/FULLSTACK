@@ -1,0 +1,18 @@
+
+.rotate {
+    transition: transform 0.3s ease;
+    transform: rotate(90deg);
+  }
+  
+  
+  .zoom-in {
+    transition: transform 0.3s ease;
+    transform: scale(1.2); 
+  }
+  
+  .zoom-out {
+    transition: transform 0.3s ease;
+    transform: scale(0.8); 
+  }
+  
+ 
