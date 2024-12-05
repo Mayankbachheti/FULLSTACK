@@ -3,9 +3,9 @@ import pic2 from "../image/barney.jpg"
 import './style.css';
 
 function Eff(){
- const [Rotate,setRotate]=useState("")
- const [Zoomin,setZoomin]=useState("")
- const [Zoomout,setZoomout]=useState("")
+ const [Rotate,setRotate]=useState("zoom-normal")
+ const [Zoomin,setZoomin]=useState("zoom-normal")
+ const [Zoomout,setZoomout]=useState("zoom-normal")
 
  
 

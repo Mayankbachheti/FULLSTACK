@@ -15,4 +15,6 @@
     transform: scale(0.8); 
   }
   
- 
+ .zoom-normal{
+  padding: 30px;
+ }

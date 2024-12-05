@@ -1,0 +1,18 @@
+.aa{
+    background-color: beige;
+    display: flex;
+    justify-content: space-around;
+}
+
+li{
+    list-style-type:none;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+Link{
+    text-decoration: none;
+    color: blueviolet;
+    
+    
+}
