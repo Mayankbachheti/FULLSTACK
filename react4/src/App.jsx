@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Mainlayout from './component/MainLayout';
 import './App.css';
-import Login from './component/login';
+import Login from './component/Login';
 import Registration from './component/Resgistration';
 import Dashboard from './component/Dashboard';
 import { useState } from 'react';
